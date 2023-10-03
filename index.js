@@ -86,7 +86,6 @@ function playGame(userAnswer,correctAnswer){
     console.log(kuler(`Wrong Answer`,"#b91c1c"));
     console.log(kuler(`The Correct Answer is: ${correctAnswer}`,"#1d4ed8"));
   }
-  
 }
 /** Main Logic */
 
